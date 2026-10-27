@@ -1,0 +1,12 @@
+{
+  "name": "beauty-zone-womens-parlour",
+  "version": "1.0.0",
+  "description": "Beauty Zone Women's Parlour official website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["beauty-parlour", "salon"],
+  "author": "Sujeet Kumar",
+  "license": "ISC"
+}
